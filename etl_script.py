@@ -30,7 +30,7 @@ engine = create_engine(DATABASE_URL)
 # API Configuration
 # ------------------------------
 API_URL = 'https://api.api-ninjas.com/v1/bitcoin'
-API_KEY = 'bAZu5RH/+MifNA2S6oG3gQ==SvuALx7Q3Rsznkxv'  
+API_KEY = 'API-KEY-HIDDEN' #Hidden the API Key from public access  
 
 # ------------------------------
 # Step 1: Extract Data from API
